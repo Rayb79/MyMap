@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "4925027074",
+    "firebase_url": "https://fir-intro-68184.firebaseio.com",
+    "project_id": "fir-intro-68184",
+    "storage_bucket": "fir-intro-68184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4925027074:android:0538d6e0c62fbc64",
+        "android_client_info": {
+          "package_name": "com.gohool.blog.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4925027074-6eooul3s0ukkrcd6gtvr3jsdosuthg0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gohool.blog.blog",
+            "certificate_hash": "efb8e5852b3d44d5bb503df23d7e15aec8a4e891"
+          }
+        },
+        {
+          "client_id": "4925027074-fr38cb32foqph7m2romgf7eol3hq5tfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WdcaRYoqPrqz2zr3UIvQISU2q1frxqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4925027074-fr38cb32foqph7m2romgf7eol3hq5tfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4925027074:android:c198986e6b182657",
+        "android_client_info": {
+          "package_name": "com.gohool.firebaseintro.firebaseintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4925027074-rtv6oesliqi8vrvf29gmcfvtqahig7e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gohool.firebaseintro.firebaseintro",
+            "certificate_hash": "efb8e5852b3d44d5bb503df23d7e15aec8a4e891"
+          }
+        },
+        {
+          "client_id": "4925027074-fr38cb32foqph7m2romgf7eol3hq5tfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WdcaRYoqPrqz2zr3UIvQISU2q1frxqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4925027074-fr38cb32foqph7m2romgf7eol3hq5tfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4925027074:android:1c4d814638caea74",
+        "android_client_info": {
+          "package_name": "com.gohool.goomaps.introlocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4925027074-16b7rokf4surjhaeqnot6qjt9mqrq8g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gohool.goomaps.introlocs",
+            "certificate_hash": "efb8e5852b3d44d5bb503df23d7e15aec8a4e891"
+          }
+        },
+        {
+          "client_id": "4925027074-fr38cb32foqph7m2romgf7eol3hq5tfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WdcaRYoqPrqz2zr3UIvQISU2q1frxqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4925027074-fr38cb32foqph7m2romgf7eol3hq5tfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4925027074:android:3387c5b173a7eb87",
+        "android_client_info": {
+          "package_name": "com.gohool.goomaps.mymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4925027074-i0ock4om0r2hsok32jugae4g0d9msq3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gohool.goomaps.mymap",
+            "certificate_hash": "efb8e5852b3d44d5bb503df23d7e15aec8a4e891"
+          }
+        },
+        {
+          "client_id": "4925027074-fr38cb32foqph7m2romgf7eol3hq5tfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5WdcaRYoqPrqz2zr3UIvQISU2q1frxqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4925027074-fr38cb32foqph7m2romgf7eol3hq5tfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
